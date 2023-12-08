@@ -164,7 +164,7 @@ InvestAI Connect acknowledges the criticality of data security in earning and ma
 
 These elaborations provide specific solutions for addressing the complex challenges faced by InvestAI Connect, aiming to be a reliable and scalable platform in the hydrogen domain.
 
-### Expansion of Features
+## Expansion of Features
 
 #### Predictive Analytics:
 

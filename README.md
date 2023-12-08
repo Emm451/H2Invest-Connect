@@ -1,6 +1,5 @@
-# Project Title
+# H2invest-Connect: AI Platform for Hydrogen Sector Investors.
 
-H2invest-Connect: AI Platform for Hydrogen Sector Investors.
 Building AI course project.
 
 ## Summary

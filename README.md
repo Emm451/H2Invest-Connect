@@ -29,7 +29,14 @@ The solution offered by InvestAI Connect addresses the needs of entrepreneurs st
 
 ## Data sources and AI methods
 
-Data for the platform will be sourced from various databases containing information about investors, hydrogen projects, and global energy market trends. Natural language processing and machine learning techniques will be employed for investor and project profiling and matching.
+Data Sources
+The data used by InvestAI Connect will be sourced from various databases, including compilations of information on investors and hydrogen-related projects. This data will encompass details regarding investors' backgrounds, such as their areas of interest, investment history, and project preferences. Similarly, information on hydrogen projects will cover technical, financial, and environmental aspects.
+
+AI Methods
+The platform will harness advanced artificial intelligence techniques to analyze and process this data. Natural Language Processing (NLP) will be employed to extract and comprehend relevant information from project descriptions and investor profiles. Furthermore, machine learning algorithms will be utilized to assess compatibility between projects and investors, suggesting matches based on predefined criteria.
+
+Data Security
+Data security and confidentiality are paramount for InvestAI Connect. Stringent security measures will be implemented to safeguard users' sensitive data. Robust encryption, restricted access protocols, as well as adherence to data protection regulations, will be integrated into the platform to ensure the security and confidentiality of personal and business information.
 
 ## Challenges
 

@@ -388,6 +388,10 @@ By uniting these skills, encouraging collective expertise, and fostering a colla
 
 5. **Hydrogenics**
     - *Summary:* Hydrogenics focuses on hydrogen production and storage solutions, offering electrolyzers and innovative fuel cell systems for various industrial and transportation applications.
+  
+6. **Star Scientific Australia**
+    - *Summary:* Star Scientific Australia is a company focused on developing and commercializing hydrogen-based technologies. They are known for their proprietary Hydrogen Energy Release Optimizer (HERO) technology, which aims to improve the efficiency of hydrogen production and utilization processes. The company is dedicated to advancing sustainable energy solutions through innovative hydrogen-related advancements.
+
 
 
 

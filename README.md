@@ -19,7 +19,13 @@ InvestAI Connect aims to bridge this gap by facilitating connections between inv
 
 ## How is it used?
 
-The platform acts as a matchmaking service, utilizing AI algorithms to match qualified investors with viable hydrogen projects. Entrepreneurs seeking investments and investors looking for opportunities in the hydrogen field will use this platform. The solution is needed in situations where accessing reliable investors for hydrogen projects is challenging.
+The InvestAI Connect platform operates as a dedicated matchmaking service within the hydrogen sector. Entrepreneurs seeking funding for innovative hydrogen projects and investors exploring opportunities in this field can utilize this platform.
+
+For entrepreneurs, the platform provides a space to showcase their projects, offering details on technological aspects, economic viability, as well as environmental and societal benefits. By presenting this information in a clear and structured manner, entrepreneurs can attract the attention of potential investors.
+
+Investors, on the other hand, gain access to a database containing various hydrogen projects. Using artificial intelligence algorithms, the platform analyzes investor and project profiles to suggest potential matches. This assists investors in identifying projects aligned with their investment goals, whether in terms of financial profitability, environmental impact, or technological innovation.
+
+The solution offered by InvestAI Connect addresses the needs of entrepreneurs striving to advance their hydrogen projects by securing suitable funding. Similarly, it caters to investors by enabling them to easily discover and assess investment opportunities in promising hydrogen projects.
 
 ## Data sources and AI methods
 

@@ -55,7 +55,7 @@ User data confidentiality and sensitive business details are paramount. InvestAI
 The sustainability and scalability of the platform pose challenges. InvestAI Connect may require regular updates to remain relevant in a constantly evolving financial and technological landscape. Adapting to new technological advancements and changes in the hydrogen sector will be crucial to ensure the platform's continued relevance.
 
 
-## Perspectives
+## What next
 
 InvestAI Connect is an evolving project with considerable potential for the future. The prospects for the development and expansion of the platform are promising.
 

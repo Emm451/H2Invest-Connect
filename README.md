@@ -1,6 +1,6 @@
 # Project Title
 
-InvestAI Connect: AI Platform for Hydrogen Sector Investors
+InvestAI Connect: AI Platform for Hydrogen Sector Investors.
 Building AI course project.
 
 ## Summary

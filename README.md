@@ -55,9 +55,22 @@ User data confidentiality and sensitive business details are paramount. InvestAI
 The sustainability and scalability of the platform pose challenges. InvestAI Connect may require regular updates to remain relevant in a constantly evolving financial and technological landscape. Adapting to new technological advancements and changes in the hydrogen sector will be crucial to ensure the platform's continued relevance.
 
 
-## What next?
+## Perspectives
 
-InvestAI Connect could expand to include real-time market analysis, offer funding suggestions, and establish strategic partnerships for selected projects. Collaboration with experts in AI and energy sectors could help further develop the platform's capabilities.
+InvestAI Connect is an evolving project with considerable potential for the future. The prospects for the development and expansion of the platform are promising.
+
+### Expansion of Features
+As the platform matures, new features could be integrated. For example, adding predictive analytics capabilities to assess the success potential of projects or implementing mechanisms to track the performance of investments made through the platform.
+
+### Collaboration and Strategic Partnerships
+InvestAI Connect could benefit from collaborations with hydrogen industry experts and artificial intelligence specialists. These partnerships could help enhance matching algorithms and ensure better adaptation to market and technological developments.
+
+### Expansion to Other Sectors
+While initially focusing on the hydrogen domain, the platform's model could be adapted to address related sectors or other renewable energy sources. Broadening the platform's scope could open new opportunities and strengthen its impact in the field of energy transition.
+
+### Awareness and Education
+InvestAI Connect could play a key role in raising awareness and educating investors and entrepreneurs about hydrogen technologies. Educational and informative resources could be developed to foster a better understanding of the challenges and opportunities in this emerging sector.
+
 
 
 

@@ -51,8 +51,7 @@ Green bonds have unlocked new capital streams and garnered increased interest fr
 
 #### Conclusion
 
-The convergence of evolving regulations, the establishment of financial mechanisms like green bonds, and dedicated institutions such as the Hydrogen Bank underscore the dynamic landscape influencing the hydrogen sector's growth. With carbon taxes driving emission reductions and green bonds mobilizing capital towards sustainability, the stage is set for hydrogen to emerge as a cornerstone in the transition towards cleaner, more sustainable energy sources.
-
+The evolution of regulatory landscapes, marked by the implementation of carbon taxes and the emergence of financial mechanisms like green bonds, offers a promising environment for InvestAI Connect's mission. These regulatory shifts, combined with the financial support and institutional backing, underscore the pivotal role of initiatives like InvestAI Connect in propelling the hydrogen sector towards a sustainable, energy-efficient future.
 
 ## How is it used?
 

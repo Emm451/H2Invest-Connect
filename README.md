@@ -84,10 +84,24 @@ InvestAI Connect could consider strategic partnerships with reputable institutio
 ## Data sources and AI methods
 
 ### Data Sources
-The data used by InvestAI Connect will be sourced from various databases, including compilations of information on investors and hydrogen-related projects. This data will encompass details regarding investors' backgrounds, such as their areas of interest, investment history, and project preferences. Similarly, information on hydrogen projects will cover technical, financial, and environmental aspects.
+
+- **Specialized Sector Databases:** Identify databases dedicated to investments, projects, and companies in the hydrogen domain. Resources like research reports, records of past and present investments, along with sector-specific databases on energy, could provide valuable insights.
+
+- **Investment and Funding Platforms:** Explore existing platforms where entrepreneurs showcase their projects to attract investors. Analyze available data on these platforms to understand investment trends, raised amounts, and profiles of investors interested in hydrogen technologies.
+
+- **Governmental and Regulatory Reports:** Access reports published by governmental authorities concerning energy policies, subsidies, tax incentives, and regulations related to hydrogen. These data sources offer valuable insights into the regulatory and financial context within the hydrogen sector.
+
+- **Specialized Forums and Conferences:** Explore discussions, presentations, and shared documents from specialized conferences or professional forums focused on hydrogen. These sources may contain cutting-edge information, case studies, and insights from domain experts.
 
 ### AI Methods
-The platform will harness advanced artificial intelligence techniques to analyze and process this data. Natural Language Processing (NLP) will be employed to extract and comprehend relevant information from project descriptions and investor profiles. Furthermore, machine learning algorithms will be utilized to assess compatibility between projects and investors, suggesting matches based on predefined criteria.
+
+- **Natural Language Processing (NLP):** Utilize NLP techniques to analyze project descriptions and investor profiles. This will extract key information about projects, such as their technical feasibility, environmental and economic advantages, and various investors' investment preferences.
+
+- **Machine Learning (ML):** Train machine learning models using available datasets to assess compatibility between projects and investors. Algorithms can learn to recognize patterns in investment preferences and make more accurate recommendations over time.
+
+- **Predictive Analysis:** Incorporate predictive analysis techniques to evaluate the future viability of projects. This could help investors make more informed decisions by predicting industry trends and assessing the long-term success potential of projects.
+
+- **Personalized Recommendation Algorithms:** Develop recommendation algorithms based on the interests and behaviors of previous users. These algorithms might employ collaborative filtering techniques to suggest partnerships between investors and projects that closely align with their preferences.
 
 ### Data Security
 Data security and confidentiality are paramount for InvestAI Connect. Stringent security measures will be implemented to safeguard users' sensitive data. Robust encryption, restricted access protocols, as well as adherence to data protection regulations, will be integrated into the platform to ensure the security and confidentiality of personal and business information.

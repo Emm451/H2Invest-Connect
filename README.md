@@ -40,7 +40,20 @@ Data security and confidentiality are paramount for InvestAI Connect. Stringent 
 
 ## Challenges
 
-The platform does not solve regulatory complexities or specific risks associated with hydrogen projects. Ethical considerations regarding data privacy and security must be taken into account when deploying such a solution.
+InvestAI Connect aims to address a complex challenge in the realm of hydrogen-related investment and innovation. However, several challenges must be considered to ensure the effectiveness and relevance of the platform.
+
+### Technological Limitations
+While AI is a powerful tool, it has its limitations. InvestAI Connect relies on the accuracy of machine learning algorithms and natural language processing to suggest relevant matches. Results may be influenced by the quality and quantity of available data, sometimes leading to inaccurate or incomplete recommendations.
+
+### Complexity of Hydrogen Projects
+Hydrogen projects can be diverse and intricate, involving substantial technical, financial, and regulatory aspects. Establishing universal criteria to assess compatibility between an investor and a project can be challenging. Some projects might require in-depth evaluations that go beyond the platform's initial scope.
+
+### Ethical and Privacy Concerns
+User data confidentiality and sensitive business details are paramount. InvestAI Connect must ensure stringent security measures to protect personal information while facilitating matches. Ensuring complete transparency about data collection and usage is crucial to build user trust and comply with prevailing regulations.
+
+### Long-Term Outlook
+The sustainability and scalability of the platform pose challenges. InvestAI Connect may require regular updates to remain relevant in a constantly evolving financial and technological landscape. Adapting to new technological advancements and changes in the hydrogen sector will be crucial to ensure the platform's continued relevance.
+
 
 ## What next?
 
